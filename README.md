@@ -89,5 +89,4 @@ Full Report.pdf
 ---
 
 ## 👨‍💻 Author
-**Ahmed Soliman**  
-Aspiring Data Analyst  
+**Ahmed Soliman**    
