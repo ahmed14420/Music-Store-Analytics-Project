@@ -75,7 +75,7 @@ End-to-end **Data Analytics project** analyzing a digital music store using **SQ
 ### 3. Open Dashboards
 - Open:
 
-- <a href="https://github.com/ahmed14420/Music-Store-Analytics-Project/blob/main/Music%20Store.xlsx">Store.xlsx</a>Music 
+- <a href="https://github.com/ahmed14420/Music-Store-Analytics-Project/blob/main/Music%20Store.xlsx">Store Music.xlsx</a> 
   
 - Navigate between sheets  
 - Click **Data → Refresh All** (if needed)
