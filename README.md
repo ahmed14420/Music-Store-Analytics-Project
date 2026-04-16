@@ -62,7 +62,7 @@ End-to-end **Data Analytics project** analyzing a digital music store using **SQ
 - Open your SQL environment (SQL Server / SQLite)  
 - Run:
 ```
-Music Store.sql
+- <a href="https://github.com/ahmed14420/Music-Store-Analytics-Project/blob/main/Music%20Store.sql">Music Store.sql</a>
 ```
 
 ### 2. Explore SQL Analysis
@@ -75,7 +75,7 @@ Music Store.sql
 ### 3. Open Dashboards
 - Open:
 ```
-Music Store.xlsx
+- <a href="https://github.com/ahmed14420/Music-Store-Analytics-Project/blob/main/Music%20Store.xlsx">Store.xlsx</a>Music 
 ```
 - Navigate between sheets  
 - Click **Data → Refresh All** (if needed)
@@ -83,7 +83,7 @@ Music Store.xlsx
 ### 4. View Full Report
 - Open:
 ```
-Full Report.pdf
+- <a href="https://github.com/ahmed14420/Music-Store-Analytics-Project/blob/main/Full%20Report.pdf">Full Report.pdf</a>
 ```
 
 ---
